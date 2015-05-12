@@ -45,5 +45,5 @@ customized report viewer.
 ##### License
 
 This software is (c) 2010 David Laing & Greg Malcolm, and licensed under the MIT license (see
-LICENCE for details).  Enjoy!
+LICENCE for details). Enjoy!
 
